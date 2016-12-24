@@ -7,3 +7,4 @@ une sixième ligne rajoutée
 une septième ligne rajoutée et modifiéé localement
 une huitième ligne rajoutée et modifiée
 une neuvième ligne ajoutée sur GitHub
+une 10ème ligne ajoutée localement

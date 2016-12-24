@@ -1,7 +1,7 @@
 ceci est le début du fichier file_1
 une deuxième ligne modifiée localement
 une troisième ligne modifiée localement
-un quatrième ligne rajoutée
+un quatrième ligne rajoutée et modifiée localement
 une cinquième ligne est ajoutée et modifiée localement
 une sixième ligne rajoutée et modifiée localement
 une septième ligne rajoutée et modifiéé localement

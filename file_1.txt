@@ -3,7 +3,7 @@ une deuxième ligne
 une troisième ligne
 un quatrième ligne rajoutée
 une cinquième ligne est ajoutée
-une sixième ligne rajoutée
+une sixième ligne rajoutée et modifiée localement
 une septième ligne rajoutée et modifiéé localement
 une huitième ligne rajoutée et modifiée
 une neuvième ligne ajoutée sur GitHub et modifiée sur GitHub

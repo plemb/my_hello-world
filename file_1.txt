@@ -2,3 +2,4 @@ ceci est le début du fichier file_1
 une deuxième ligne
 une troisième ligne
 un quatrième ligne rajoutée
+une cinquième ligne est ajoutée

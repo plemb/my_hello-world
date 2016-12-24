@@ -5,9 +5,4 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
 
-
-x = 3
-y = 4
-z = x + y
-
-print(z)
+# an empty python file with some declarations

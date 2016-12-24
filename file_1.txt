@@ -1,5 +1,5 @@
 ceci est le début du fichier file_1
-une deuxième ligne
+une deuxième ligne modifiée localement
 une troisième ligne
 un quatrième ligne rajoutée
 une cinquième ligne est ajoutée et modifiée localement

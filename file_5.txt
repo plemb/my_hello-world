@@ -1,8 +1,5 @@
 le fichier n°5
 
-ligne 3
-ligne 4 modifiée sur GitHub
-
 ligne 3 modifiée localement
-ligne 4
+ligne 4 modifiée sur GitHub
 ligne 5 ajoutée localement
